@@ -267,7 +267,7 @@ body{
 	justify-content: space-evenly;
 	align-items: flex-start;
 	text-align: left;
-	padding-left: 2vw;
+	padding: 0 1vw;
 }
 
 .project-info h4{
