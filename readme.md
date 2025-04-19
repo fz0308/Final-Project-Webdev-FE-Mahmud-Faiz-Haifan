@@ -28,7 +28,7 @@ No dependencies on JavaScript or external frameworks
 
 Clone this repository:
 
-    git clone https://github.com/yourusername/project-repo.git
+    git clone https://github.com/Lordsans-404/My-Portfolio.git
 
 Open the index.html file in your browser to view the website.
 <hr>
